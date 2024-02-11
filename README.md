@@ -1,1 +1,2 @@
 # TO-DO-list
+I have created list project built with React.js is a task management application that enables users to create, categorize, and track their tasks efficiently. It provides a simple and intuitive interface for adding tasks, organizing them into categories if desired, and marking them as completed when finished. With a focus on usability and productivity, the app aims to streamline the process of managing daily tasks and improving overall efficiency.
